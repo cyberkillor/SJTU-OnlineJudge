@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fangzhicheng/Desktop/数据结构/Merkle_Trees/md5.cpp
+md5.h
+/Users/fangzhicheng/Desktop/数据结构/Merkle_Trees/md5.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/Users/fangzhicheng/Desktop/数据结构/Merkle_Trees/md5.h
+string
+-
+

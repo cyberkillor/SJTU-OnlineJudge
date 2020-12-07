@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/fangzhicheng/Desktop/数据结构/4071/main.cpp
+iostream
+-
+cstdio
+-
+cstdlib
+-
+cstring
+-
+cmath
+-
+algorithm
+-
+
